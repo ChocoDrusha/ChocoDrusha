@@ -22,7 +22,7 @@
 
 #### Workspace:
 
-![Ubuntu](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=linux&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=linux&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
